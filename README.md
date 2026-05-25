@@ -1,4 +1,4 @@
-You can write something professional and attractive like this for your GitHub project description:
+
 
 # GitHub Project Description
 
